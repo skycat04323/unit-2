@@ -515,7 +515,6 @@ MonoBehaviour:
   - {fileID: 5166208145837031767, guid: 7565927576346ae42b4842b83948ce05, type: 3}
   - {fileID: 5163186474122154512, guid: d356acf3c4ddb65439a00eb488b7439a, type: 3}
   - {fileID: 3634011376670570979, guid: 5562097a3f4b69b4d844191767c458ce, type: 3}
-  animalIndex: 0
 --- !u!1 &768343411 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5163186474122154512, guid: d356acf3c4ddb65439a00eb488b7439a,
